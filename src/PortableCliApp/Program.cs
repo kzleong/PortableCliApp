@@ -9,6 +9,7 @@ using PortableCliApp;
  */
 
 Console.WriteLine("Cross-platform .NET 10 CLI demonstration");
+Console.WriteLine("I love C#");
 Console.WriteLine("========================================");
 Console.WriteLine();
 
