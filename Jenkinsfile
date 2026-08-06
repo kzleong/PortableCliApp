@@ -1,6 +1,5 @@
 pipeline {
 
-
     // Run the pipeline on any available Jenkins agent 
     // capable of accepting the job.
     //
